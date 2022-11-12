@@ -1,0 +1,13 @@
+body {
+background-image: url(https://thumbs.dreamstime.com/b/mathematics-background-fractions-white-table-close-up-dividing-fractions-math-concept-mathematics-background-fractions-white-174284217.jpg);
+background-size: cover;
+}
+#output{
+    background-color:honeydew;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
